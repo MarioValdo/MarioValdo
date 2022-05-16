@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @MarioValdo
+- 👀 I’m interested in Raspberry Pi.
+- 🌱 I’m currently learning MicroPyton.
+- 💞️ I’m looking to collaborate on motion control.
+- 📫 You can reach me mvaldo@uol.com.br
